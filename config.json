@@ -1,6 +1,18 @@
 {
   "cache_time": 9200,
   "api_site": {
+	   "ysgc": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "name": "影视工厂"
+    },
+            "ftys": {
+      "api": "https://www.fantuan.tv/api.php/provide/vod/",
+      "name": "饭团"
+    },
+             "qiqi": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七资源"
+    },
  "dyttzy": {
          "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
          "name": "电影天堂资源",
