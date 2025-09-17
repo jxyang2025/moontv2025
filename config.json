@@ -416,12 +416,12 @@
             "api": "https://slapibf.com/api.php/provide/vod",
             "name": "AV-森林资源",
             "detail": "https://slapibf.com"
-        }，
+        },
         "AV17": {
             "api": "https://apiyutu.com/api.php/provide/vod",
             "name": "AV-玉兔资源",
             "detail": "https://apiyutu.com"
-        },
+        }，
         "AV19": {
             "api": "https://www.pgxdy.com/api/json.php",
             "name": "AV-AV资源",
